@@ -3,7 +3,7 @@ space_in_a_car=4.0
 drivers=30
 passengers=90
 cars_not_driven=car-drivers
-car_driven=drivers
+cardriven=drivers
 carpool_capacity=cars_driven*space_in_a_car
 average_passengers_per_car=passenger/car_driven
 
